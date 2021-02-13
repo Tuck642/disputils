@@ -14,7 +14,7 @@
     :target: https://github.com/psf/black
 
 *********
-Disputils
+Disputils - Changed around for Lens
 *********
 
 Disputils provides some neat features to make your life as a bot developer easier.
